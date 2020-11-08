@@ -1,0 +1,28 @@
+﻿Created By AccessData® FTK® Imager 4.3.1.1 
+
+Case Information: 
+Acquired using: ADI4.3.1.1
+Case Number: 003
+Evidence Number: 003
+Unique Description: 003
+Examiner: Manish
+Notes: 003
+
+--------------------------------------------------------------
+
+Information for C:\Users\mkwat\Desktop\usha.ad1:
+[Computed Hashes]
+ MD5 checksum:    18ce99337430435bdc5bf6ce54ef8e6b
+ SHA1 checksum:   144c05e1a7aeaf1a31cd49e7cc1b5e9997783085
+
+Image information:
+ Acquisition started:   Thu Aug 20 10:10:31 2020
+ Acquisition finished:  Thu Aug 20 10:10:32 2020
+ Segment list:
+  C:\Users\mkwat\Desktop\usha.ad1
+
+Image Verification Results:
+ Verification started:  Thu Aug 20 10:10:33 2020
+ Verification finished: Thu Aug 20 10:10:33 2020
+ MD5 checksum:    18ce99337430435bdc5bf6ce54ef8e6b : verified
+ SHA1 checksum:   144c05e1a7aeaf1a31cd49e7cc1b5e9997783085 : verified
